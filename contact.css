@@ -59,6 +59,7 @@ table{
     padding-top: 15px;
     border-radius: 15px;
     border: 2px solid rgba(85, 255, 0, 0.339);
+    text-align: center;
 }
 footer{
     background-color: rgba(255, 0, 0, 0.287);
