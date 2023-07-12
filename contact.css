@@ -1,6 +1,7 @@
 html{
     background-image: linear-gradient(to bottom right,rgb(128, 0, 128),blue);
     font-family: 'Montserrat', sans-serif;
+    background-repeat: no-repeat;
 }
 h1,a{
     color: #f2f2f2;
