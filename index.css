@@ -1,6 +1,7 @@
 body{
     background-image: linear-gradient(to bottom right,rgb(128, 0, 128),blue);
     font-family: 'Montserrat', sans-serif;
+    background-repeat: no-repeat;
 }
 img{
     border: 5px solid rgba(255, 255, 255, 0.163);
